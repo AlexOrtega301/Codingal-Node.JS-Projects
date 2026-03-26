@@ -65,17 +65,6 @@ Frontend practice projects including:
 
 ---
 
-### 🛰️ NASA Space Apps Hackathon Project
-
-1st Place — **Guerrero, Atoyac de Álvarez (2025)**
-
-Project Repository:
-https://github.com/Dancin-Bros-NASA-Hackathon-GEE-API
-
-A project created during the **NASA Space Apps Challenge** using the **Google Earth Engine API** to work with environmental and satellite data.
-
----
-
 ## 🎯 Purpose
 
 This repository documents the process of learning **backend development with Node.js**.
